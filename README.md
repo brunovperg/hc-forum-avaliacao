@@ -1,7 +1,11 @@
 clone the repository
+
 open the repository
+
 run npm i (Node required)
+
 run npm run dev
+
 
 
 # React + TypeScript + Vite
